@@ -3,7 +3,7 @@
 # Asynchronous-Javascript
 
 ## description: 
->In this project, I am explicitly noting all things asynchronous javascript related (All that I am able to find). I plan on doing the aforementioned in the hope of understanding javascript better.
+>In this project, I am explicitly noting all things asynchronous javascript related (All that I am able to find) including AJAX (Asynchronous Javascript And XML, however I will be using JSON as opposed to the antiquated XML). I plan on doing the aforementioned in the hope of understanding javascript better.
 
 ## Table of Contents:
 - [title](#title)
